@@ -53,21 +53,21 @@ Rajesh Patnala</a></h1>
 	<a href="###################################">
 			<img border="0" alt="Rajesh Patnala" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 	</a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/rajesh-patnala/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/iam-rajesh-patnala/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/mr-razesh">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/iam-rajesh-patnala">
 			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20645393/mr-razesh">
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://dev.to/mr_razesh">				
 			<img src="https://img.icons8.com/external-soft-fill-juicy-fish/40/null/external-developer-devops-soft-fill-soft-fill-juicy-fish-2.png"/>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/mr_razesh">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/iam-rajesh-patnala">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Mr__Razesh">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfnecICHhYkB3jTn4eAplEw">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-	<a href="mailto:signinanonymous.inhack@gmail.com">
+	<a href="mailto:iamrajeshpatnala@gmail.com">
 			<img border="0" alt="Rajesh Patnala" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 	</a>
 </div>
@@ -123,11 +123,11 @@ Rajesh Patnala</a></h1>
 <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-razesh&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-razesh&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-razesh&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mr-razesh&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mr-razesh&theme=tokyonight&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iam-rajesh-patnala&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iam-rajesh-patnala&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iam-rajesh-patnala&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iam-rajesh-patnala&theme=tokyonight">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iam-rajesh-patnala&theme=tokyonight&utcOffset=8">
 </p>
 
 <!-- star -->
@@ -143,11 +143,11 @@ Rajesh Patnala</a></h1>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="100">
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mr-razesh&show_icons=true&theme=merko">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mr-razesh&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=iam-rajesh-patnala&show_icons=true&theme=merko">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iam-rajesh-patnala&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-razesh&layout=compact&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-rajesh-patnala&layout=compact&theme=merko">
 
 	
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
@@ -156,9 +156,9 @@ Rajesh Patnala</a></h1>
 	
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
-  <a href="https://github.com/mr-razesh?tab=repositories&sort=mr-razesh">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mr-razesh"/></a><a href="https://github.com/mr-razesh?tab=followers"><a href="https://github.com/mr-razesh?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mr-razesh?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/iam-rajesh-patnala?tab=repositories&sort=iam-rajesh-patnala">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/iam-rajesh-patnala"/></a><a href="https://github.com/iam-rajesh-patnala?tab=followers"><a href="https://github.com/iam-rajesh-patnala?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/iam-rajesh-patnala?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 	
 <!--📏LINE-->
 <p align="center">
