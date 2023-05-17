@@ -41,7 +41,7 @@ Rajesh Patnala</a></h1>
 - :man_technologist: I love using Software as a solution for every `Problem`
 - :pencil: I have a strong interest in `Web developement` and `Python`
 - :star: Main languages: `Python`, `JavaScript`
-- :two_hearts: In a complicated relationship with `Full Stack`
+- :two_hearts: In a complicated relationship with `Python`
 - :crossed_fingers: Always `learning new things`
 <br/>
 
