@@ -41,11 +41,7 @@ Rajesh Patnala</a></h1>
 - :man_technologist: I love using Software as a solution for every `Problem`
 - :pencil: I have a strong interest in `Web developement` and `Python`
 - :star: Main languages: `Python`, `JavaScript`
-<<<<<<< HEAD
-- :two_hearts: In a complicated relationship with `Web Development`
-=======
-- :two_hearts: In a complicated relationship with `web Development`
->>>>>>> 68148f3305b87eff627b10174f46b4f2e6cd2017
+- :two_hearts: In a complicated relationship with `Full Stack`
 - :crossed_fingers: Always `learning new things`
 <br/>
 
@@ -57,17 +53,17 @@ Rajesh Patnala</a></h1>
 	<a href="###################################">
 			<img border="0" alt="Rajesh Patnala" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png"/>
 	</a>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/iam-rajesh-patnala/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/iam-rajesh-patnala">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/iam-rajesh-patnala">
 			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20645393/mr-razesh">
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/20645393/rajesh-patnala">
 			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://dev.to/mr_razesh">				
+	<a style="margin-left: 10px;" target="_blank" href="https://dev.to/iam_rajesh_patnala">				
 			<img src="https://img.icons8.com/external-soft-fill-juicy-fish/40/null/external-developer-devops-soft-fill-soft-fill-juicy-fish-2.png"/>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/iam-rajesh-patnala">
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/iam_rajesh_patnala">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Mr__Razesh">
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/rajesh__patnala">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfnecICHhYkB3jTn4eAplEw">
 			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
@@ -156,7 +152,7 @@ Rajesh Patnala</a></h1>
 	
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
-<a href="https://stackoverflow.com/users/20645393/mr-razesh"><img src="https://github-readme-stackoverflow.vercel.app/?userID=20645393&theme=dark">
+<a href="https://stackoverflow.com/users/20645393/rajesh-patnala"><img src="https://github-readme-stackoverflow.vercel.app/?userID=20645393&theme=dark">
 	
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
