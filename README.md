@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/rF3v0tPw/banner.gif)](https://github.com/mr-razesh)
 <!-- Heading Start-->
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="#" target="blank">
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="#" target="blank">
 Rajesh Patnala</a></h1>
 
 <!-- Heading End-->
